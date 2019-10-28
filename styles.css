@@ -1,0 +1,55 @@
+body {
+    background: rgb(205, 218, 200);
+    overflow: hidden;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    background: rgb(184, 210, 182);
+    font-size: 30px;
+    font-family: "Courier New";
+    letter-spacing: 5px;
+    padding: 13px;
+    color: rgb(78, 59, 69);
+    margin-bottom: 30px;
+}
+
+#can {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	height: 240px;
+    width: 70%;
+    background: rgb(205, 218, 200);
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position:fixed;
+    bottom: 0;
+
+    box-sizing: border-box;
+    text-align: center;
+    background: rgb(184, 210, 182);
+    font-size: 16px;
+    font-family: "Courier New";
+    letter-spacing: 5px;
+    padding: 13px;
+    color: rgb(78, 59, 69);
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
