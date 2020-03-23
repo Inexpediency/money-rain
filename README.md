@@ -1,4 +1,24 @@
-# MoneyRain
-Browser game for PC on JS
+<h1 align="center">MoneyRain</h1>
+<div align="center">
+  
+---
 
-You must collect the maximum number of coins falling from the sky
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+
+    
+---
+
+</div>
+
+# Install
+-   clone this repo: `git clone https://github.com/Ythosa/MoneyRain`
+-   run: `index.html`
+-   click: `start`
+
+---
+
+# Description
+-    Browser game for PC
+-    If game isn't working change scale xd
